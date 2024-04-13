@@ -1,1 +1,1 @@
-This is the repository https://github.com/Morkie22/ROCKPAPERSCISSOR/tree/main
+This is the link to the game https://morkie22.github.io/ROCKPAPERSCISSOR/
